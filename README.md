@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @The-Atlas-Dev
+- 👋 Hi, I’m Atlas
 - 👀 I’m interested in Game DeV
-- 🌱 I’m currently learning HTML, CSS & Js
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Game Studios
 - 📫 How to reach me atlas.office642@gmail.com
 - 😄 Pronouns: he/him
